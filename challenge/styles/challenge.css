@@ -1,0 +1,26 @@
+* {
+    /* border: 1px solid blue; */
+  }
+
+#list{
+
+}
+body, footer{
+    text-align: center;
+    background-color: pink;
+}
+img{
+    display: block;
+    margin: 0 auto;
+    width: 10%;
+    border: 1px solid red;
+}
+
+h1, h3, #first, #quote{
+    color: white;
+}
+
+h1:hover{
+    color: black;
+}
+  
