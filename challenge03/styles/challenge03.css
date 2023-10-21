@@ -1,0 +1,15 @@
+.box{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+}
+
+.box1{
+    background-color: white;
+    height: 200px;
+}
+
+.box2{
+    background-color: grey;
+    height: 200px;
+}
