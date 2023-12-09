@@ -58,7 +58,7 @@ nav a:hover{
 }
 
 #background{
-    background-color: #FFFFFF;
+    background-color: #FFFDD0;
     border: 2px double #FFB409;
     border-radius: 40em;
     grid-column: 1/6;
